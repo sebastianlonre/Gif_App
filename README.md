@@ -1,4 +1,4 @@
-# Electiva I
+# Gif app
 
 ## realizado por
 
